@@ -6,5 +6,7 @@ print "das ist ein %s" % variable
 
 exec(variable)
 eval(varialbe)
+eval(variable)
 
+print "das %s" % "ist"
 
