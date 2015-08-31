@@ -10,3 +10,5 @@ eval(variable)
 
 print "das %s" % "ist"
 eval("print variable")
+eval("print variable")
+
