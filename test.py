@@ -3,7 +3,7 @@
 
 variable = "testing"
 print "das ist ein %s" % variable
-
+print "das ist ein %s" % variable
 exec(variable)
 eval(varialbe)
 eval(variable)
