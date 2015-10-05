@@ -7,6 +7,10 @@ exec(variable)
 eval(varialbe)
 eval(variable)
 eval("print variable")
+exec(variable)
+eval(varialbe)
+eval(variable)
+eval("print variable"
 print "das %s" % "ist"
 eval("print variable")
 variable = "testing"
