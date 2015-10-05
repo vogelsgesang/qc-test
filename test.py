@@ -50,4 +50,9 @@ eval("print variable")
 print "das %s" % "ist"
 eval("print variable")
 eval("print variable")
-
+eval(varialbe)
+eval(variable)
+eval("print variable")
+print "das %s" % "ist"
+eval("print variable")
+eval("print variable")
